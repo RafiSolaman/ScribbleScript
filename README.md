@@ -8,9 +8,9 @@ ScribbleScript is an AI-powered design-to-code engine that transforms hand-drawn
 The transition from a rough sketch to a coded prototype is often a bottleneck. ScribbleScript eliminates this friction by using multimodal AI to "read" visual intent and output production-ready code instantly.
 
 ## Technical Stack
-* **Framework:** Next.js 14 (App Router)
-* **AI Engine:** Google Gemini 3 Flash (Vision & Reasoning)
-* **Execution:** Sandpack (Virtualized browser-side sandbox)
+* **Framework:** Next.js 14 
+* **AI Engine:** Google Gemini 3 Flash 
+* **Execution:** Sandpack 
 * **Styling:** Tailwind CSS
 * **Icons:** Lucide-React
 * **Deployment:** Vercel
@@ -55,5 +55,3 @@ The transition from a rough sketch to a coded prototype is often a bottleneck. S
 * **Design System Sync:** Integration with libraries like Shadcn/UI and Radix.
 * **Voice-to-Edit:** Using voice commands to refine the generated UI (e.g., "Change the primary color to emerald").
 
----
-Developed with ☕ by a solo hacker for the Gemini 3 Hackathon.
